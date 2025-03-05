@@ -22,26 +22,8 @@ java,html,css,react,mysql,nodejs,git,github,docker,aws
   ⭐️ 0 Stars | 🛠️ Language: N/A  
   Forks: 0 | Issues: 0
 
-- [Hector-Ha](https://github.com/Hector-Ha/Hector-Ha)  
-  My personal GitHub profile repository showcasing my work and projects.  
-  ⭐️ 0 Stars | 🛠️ Language: N/A  
-  Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hector-Ha&show_icons=true&theme=radical)  
-Public Repositories: 3 | Followers: 0 | Following: 1
 
 ## Recent Activity
 
 - Created a new branch in [TypoRush](https://github.com/Smarty6452/TypoRush)  
 - Pushed solutions for LeetCode problems including Problem 3, 12, and 20.  
-- Engaged with the community by contributing to various repositories.
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts published, but stay tuned for future updates!
-
-## Connect with Me
-
-{"generic":"https://www.behance.net/hector-ha"}
