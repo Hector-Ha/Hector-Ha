@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hector Ha</h1>
-<h3 align="center">UI/UX Designer with 2+ years’ experience in the design industry and extensive experience crafting intuitive and user-friendly designs for web and mobile platforms. Successfully delivered 8+ projects across multiple domains, including securities/stocks, e-commerce, education, etc. Played an especially key role in the VPS project, which peaked at around 1.6 million visits in September 2024, and other notable projects like Trading Leagues, Employee Performance Appraisal System (E-PAS), Lighthouse Learning, Collabera, and more.</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hector-ha&label=Profile%20views&color=0e75b6&style=flat" alt="hector-ha" /> </p>
+I'm **Ha Van Duong**, a passionate developer based in **Toronto**. I love creating solutions that bridge technology and creativity. Let's build something amazing together!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hector-ha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hector-ha/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/hector-ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/hector-ha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/hector_ha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hector_ha/" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I am a software developer with a keen interest in problem-solving and algorithm design. Currently, I am focused on enhancing my skills in software engineering and contributing to open-source projects. I am also open to collaboration and new opportunities!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hector-ha&show_icons=true&locale=en" alt="hector-ha" /></p>
+## Skills & Technologies
+
+java,html,css,react,mysql,nodejs,git,github,docker,aws
+
+## Top Projects
+
+- [LeetCodeAnswers](https://github.com/Hector-Ha/LeetCodeAnswers)  
+  A collection of my solutions to LeetCode problems.  
+  ⭐️ 0 Stars | 🛠️ Language: Python  
+  Forks: 0 | Issues: 0
+
+- [design-styleguide-collection](https://github.com/Hector-Ha/design-styleguide-collection)  
+  A comprehensive collection of design style guides for various platforms.  
+  ⭐️ 0 Stars | 🛠️ Language: N/A  
+  Forks: 0 | Issues: 0
+
+- [Hector-Ha](https://github.com/Hector-Ha/Hector-Ha)  
+  My personal GitHub profile repository showcasing my work and projects.  
+  ⭐️ 0 Stars | 🛠️ Language: N/A  
+  Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hector-Ha&show_icons=true&theme=radical)  
+Public Repositories: 3 | Followers: 0 | Following: 1
+
+## Recent Activity
+
+- Created a new branch in [TypoRush](https://github.com/Smarty6452/TypoRush)  
+- Pushed solutions for LeetCode problems including Problem 3, 12, and 20.  
+- Engaged with the community by contributing to various repositories.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts published, but stay tuned for future updates!
+
+## Connect with Me
+
+{"generic":"https://www.behance.net/hector-ha"}
