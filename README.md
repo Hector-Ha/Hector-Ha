@@ -14,12 +14,12 @@ java,html,css,react,mysql,nodejs,git,github,docker,aws
 
 - [LeetCodeAnswers](https://github.com/Hector-Ha/LeetCodeAnswers)  
   A collection of my solutions to LeetCode problems.  
-  ⭐️ 0 Stars | 🛠️ Language: Python  
+  ⭐️ 0 Stars | 🛠️ Language: Javascript 
   Forks: 0 | Issues: 0
 
 - [design-styleguide-collection](https://github.com/Hector-Ha/design-styleguide-collection)  
   A comprehensive collection of design style guides for various platforms.  
-  ⭐️ 0 Stars | 🛠️ Language: N/A  
+  ⭐️ 0 Stars | 🛠️ Language: HTML & CSS
   Forks: 0 | Issues: 0
 
 
