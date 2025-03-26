@@ -12,18 +12,17 @@ java,html,css,react,mysql,nodejs,git,github,docker,aws
 
 ## Top Projects
 
+- [TypoRush](https://github.com/Hector-Ha/TypoRush)  
+  A web-based application designed to help users measure their typing speed, accuracy, and efficiency.  
+  ⭐️ 0 Stars | 🛠️ Language: Javascript, HTML, CSS
+  Forks: 0 | Issues: 0
+
+  - [Driving License Test Kiosk](https://github.com/Hector-Ha/driving_license_kiosk)  
+  The development of the Drive Test Kiosk application, the project progressively transformed from a basic web application to a comprehensive web application with secure user management, data persistence, and role-based access controls, showcasing a systematic approach to web development using Node.js, MongoDB, and modern web technologies.  
+  ⭐️ 0 Stars | 🛠️ Language: Javascript, Mongo DB, Express, Node.js, HTML, CSS
+  Forks: 0 | Issues: 0
+
 - [LeetCodeAnswers](https://github.com/Hector-Ha/LeetCodeAnswers)  
   A collection of my solutions to LeetCode problems.  
   ⭐️ 0 Stars | 🛠️ Language: Javascript 
   Forks: 0 | Issues: 0
-
-- [design-styleguide-collection](https://github.com/Hector-Ha/design-styleguide-collection)  
-  A comprehensive collection of design style guides for various platforms.  
-  ⭐️ 0 Stars | 🛠️ Language: HTML & CSS
-  Forks: 0 | Issues: 0
-
-
-## Recent Activity
-
-- Created a new branch in [TypoRush](https://github.com/Smarty6452/TypoRush)  
-- Pushed solutions for LeetCode problems including Problem 3, 12, and 20.  
