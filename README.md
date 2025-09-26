@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**Hector-Ha/Hector-Ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Work experience: <br>
+- UI/UX Designer at Lollypop Studio.Inc.
 
-Here are some ideas to get you started:
+🛸 Tech stack: <br>
+- JavaScript/Typescript, Java/Kotlin, HTML, CSS.
+- ReactJs, NextJs, Nodejs, ExpressJS, GraphQl/Apollo.
+- MongoDB, MySQL, PostgreSQL.
+- Git, Github, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interests:
+- Web animations.
+- Building products.
