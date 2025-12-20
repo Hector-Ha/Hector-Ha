@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 ⚡ Work experience: <br>
+- Freelancer Full-Stack Web Developer.
 - UI/UX Designer at Lollypop Studio.Inc.
 
 🛸 Tech stack: <br>
