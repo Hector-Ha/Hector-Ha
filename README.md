@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 🏗️ Working on: <br>
-- Interlock: A bank-to-bank
+- Interlock: A secure financial platform for connecting bank accounts and managing payments.
 
 ✨ Highlighted Project: <br>
 - AltShift: Mini Collaborative Document Editor
