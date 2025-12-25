@@ -1,5 +1,13 @@
 ## Hi there! 👋
 
+🏗️ Working on: <br>
+- Interlock: A bank-to-bank
+
+✨ Highlighted Project: <br>
+- AltShift: Mini Collaborative Document Editor
+- XDevVerse: AI Online Hackathon Platform
+- NexusEMS: Employee Management System (EMS)
+
 ⚡ Work experience: <br>
 - Freelancer Full-Stack Web Developer.
 - UI/UX Designer at Lollypop Studio.Inc.
@@ -10,6 +18,5 @@
 - MongoDB, MySQL, PostgreSQL.
 - Git, Github, Docker
 
-🌱 Interests:
-- Web animations.
-- Building products.
+🔗 Personal Links:
+- www.linkedin.com/in/hector-ha
