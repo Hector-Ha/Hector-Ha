@@ -4,7 +4,7 @@
 - Interlock: Secure Financial Platform Connecting Banks & Managing Payments.
 - AltShift: Mini Collaborative Document Editor
 - Mile Edgeworth: RAG Personal Lawyer
-- Personal Portfolio: Personal Website For hector Ha | https://www.hectorha.dev/
+- Personal Portfolio: Personal Website For Hector Ha | https://www.hectorha.dev/
 
 ✨ Archieved Projects: <br>
 - XDevVerse: AI Online Hackathon Platform
