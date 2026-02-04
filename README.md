@@ -3,6 +3,8 @@
 🏗️ Working On & Highlighted Projects: <br>
 - Interlock: Secure Financial Platform Connecting Banks & Managing Payments.
 - AltShift: Mini Collaborative Document Editor
+- Mile Edgeworth: RAG Personal Lawyer
+- Personal Portfolio: Personal Website For hector Ha | https://www.hectorha.dev/
 
 ✨ Archieved Projects: <br>
 - XDevVerse: AI Online Hackathon Platform
@@ -19,5 +21,7 @@
 - Git, Github, Docker
 
 🔗 Personal Links:
-- https://hector-ha.vercel.app/
+- https://www.hectorha.dev/
 - www.linkedin.com/in/hector-ha
+- https://altshift.vercel.app
+- https://x-dev-verse.vercel.app/
