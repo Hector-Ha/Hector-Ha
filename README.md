@@ -1,9 +1,9 @@
 ## Hi there! 👋
 
 🏗️ Working On & Highlighted Projects: <br>
-- Interlock: Secure Financial Platform Connecting Banks & Managing Payments.
-- AltShift: Mini Collaborative Document Editor
-- Mile Edgeworth: RAG Personal Lawyer
+- Interlock: Secure Financial Platform Connecting Banks & Managing Payments. https://interlock.hectorha.dev/
+- AltShift: Mini Collaborative Document Editor | https://altshift.hectorha.dev/
+- Mile Edgeworth: RAG Personal Lawyer | Experience at: https://www.hectorha.dev/
 - Personal Portfolio: Personal Website For Hector Ha | https://www.hectorha.dev/
 
 ✨ Archieved Projects: <br>
