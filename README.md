@@ -5,6 +5,7 @@
 - AltShift: Mini Collaborative Document Editor | https://altshift.hectorha.dev/
 - Mile Edgeworth: RAG Personal Lawyer | Experience at: https://www.hectorha.dev/
 - Personal Portfolio: Personal Website For Hector Ha | https://www.hectorha.dev/
+- Job Searcher Pipeline: A MVP Personal Use Comprehensive Market-Dominance Protocol for Job Acquisition
 
 ✨ Archieved Projects: <br>
 - XDevVerse: AI Online Hackathon Platform
