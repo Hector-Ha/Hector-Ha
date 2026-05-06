@@ -8,9 +8,9 @@
 - [Job Searcher Pipeline](https://github.com/Hector-Ha/JobSearcherPipeline) – A MVP Personal Use Comprehensive Market-Dominance Protocol for Job Acquisition
 
 ⚡ Work Experience: <br>
-- Information Technology Support Assistant at Conestoga College.
+- Information Technology Support Assistant at University of British Columbia.
 - Contract Parttime Full-Stack Web Developer at Intercom Development.
-- UI/UX Designer at Lollypop Design Studio.
+- UI/UX Designer at Terralogic Inc.
 
 🛸 Tech Stack: <br>
 - JavaScript/Typescript, Go, Java/Kotlin, HTML, CSS.
