@@ -19,7 +19,7 @@
 - Git, Github, Docker
 
 🔗 Personal Links:
-- https://www.hectorha.dev/
-- www.linkedin.com/in/hectorhv/
-- https://interlock.hectorha.dev/
-- https://altshift.hectorha.dev/
+- [https://www.hectorha.dev/](https://www.hectorha.dev/)
+- [https://www.linkedin.com/in/hectorhv19909/](https://www.linkedin.com/in/hectorhv19909/)
+- [https://interlock.hectorha.dev/](https://interlock.hectorha.dev/)
+- [https://altshift.hectorha.dev/](https://altshift.hectorha.dev/)
