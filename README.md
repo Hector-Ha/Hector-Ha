@@ -1,30 +1,25 @@
-## Hi, I'm Hector Ha
+## Hi there! 👋
 
-I build full-stack applications, developer tools, and AI-assisted products, with a background in UX design.
+🏗️ Working On & Highlighted Projects: <br>
+- [Interlock](https://github.com/Hector-Ha/Interlock) – Secure Financial Platform Connecting Banks & Managing Payments | https://interlock.hectorha.dev/
+- [AltShift](https://github.com/Hector-Ha/AltShift) – Mini Collaborative Document Editor | https://altshift.hectorha.dev/
+- [Personal Portfolio](https://www.hectorha.dev/) – Personal Website For Hector Ha | https://www.hectorha.dev/
+- [Mile Edgeworth](https://github.com/Hector-Ha/Miles-Edgeworth) – RAG Personal Lawyer | Experience at: https://www.hectorha.dev/
+- [Job Searcher Pipeline](https://github.com/Hector-Ha/JobSearcherPipeline) – A MVP Personal Use Comprehensive Market-Dominance Protocol for Job Acquisition
 
-### Highlighted projects
+⚡ Work Experience: <br>
+- Information Technology Support Assistant at University of British Columbia.
+- Contract Parttime Full-Stack Web Developer at Intercom Development.
+- UI/UX Designer at Terralogic Inc.
 
-- [Interlock](https://github.com/Hector-Ha/Interlock): A banking sandbox for account linking, transaction tracking, and payment workflows, built with Next.js, Go, and PostgreSQL. [Demo](https://interlock.hectorha.dev/)
-- [AltShift](https://github.com/Hector-Ha/AltShift): A collaborative document editor with rich-text editing, real-time collaboration, and AI-assisted writing. [Demo](https://altshift.hectorha.dev/)
-- [InstantRepo](https://github.com/Hector-Ha/InstantRepo): A Go and Wails desktop tool for analyzing repositories, checking local requirements, and planning setup steps. In development.
-- [Verto](https://github.com/Hector-Ha/Verto): An AI-assisted employee-idea evaluation workflow, from submissions and clarification to review and prioritization. Local MVP demo.
-- [vox](https://github.com/Hector-Ha/vox): A public product brief for helping readers understand the story behind a social post through evidence, context, and different perspectives.
-- [Miles Edgeworth](https://github.com/Hector-Ha/Miles-Edgeworth): An Ace Attorney-inspired portfolio chatbot that uses retrieval-augmented generation to answer questions about professional qualifications. [Portfolio](https://www.hectorha.dev/)
+🛸 Tech Stack: <br>
+- JavaScript/Typescript, Go, Java/Kotlin, HTML, CSS.
+- ReactJs, NextJs, Nodejs, Wails, ExpressJS, GraphQl/Apollo.
+- MongoDB, PostgreSQL, Supabase, MySQL.
+- Git, Github, Docker
 
-Other public work: [Job Searcher Pipeline](https://github.com/Hector-Ha/JobSearcherPipeline), a personal job-search workflow MVP, and [The Skill Collection](https://github.com/Hector-Ha/skills), a curated collection of agent skills I use, including work by other authors.
-
-### Experience
-
-- Freelance Software Engineer at Infocom Development.
-- User Experience Designer at Terralogic.
-
-### Technologies
-
-- Languages: TypeScript, JavaScript, Go, Python, HTML, CSS.
-- Applications: React, Next.js, Node.js, Express, Wails, GraphQL, Apollo.
-- Data: PostgreSQL, MongoDB, MySQL, SQLite, Supabase.
-- Tools and design: Git, GitHub, Docker, Figma.
-
-### Find me
-
-[Portfolio](https://www.hectorha.dev/) | [LinkedIn](https://www.linkedin.com/in/hectorhv19909/)
+🔗 Personal Links:
+- [https://www.hectorha.dev/](https://www.hectorha.dev/)
+- [https://www.linkedin.com/in/hectorhv19909/](https://www.linkedin.com/in/hectorhv19909/)
+- [https://interlock.hectorha.dev/](https://interlock.hectorha.dev/)
+- [https://altshift.hectorha.dev/](https://altshift.hectorha.dev/)
